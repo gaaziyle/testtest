@@ -1,0 +1,1 @@
+import { submitForm } from "./script";
